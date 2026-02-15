@@ -8,11 +8,7 @@ Objective: Early diagnosis of mental health disorders from therapy session trans
 
 Approach: Utilizes BERT (Bidirectional Encoder Representations from Transformers) to capture linguistic context and semantic patterns in clinical text.
 
-Application Areas:
-
-Clinical support systems
-
-Telemedicine platforms
+Application Areas: Clinical support systems & Telemedicine platforms
 
 Mental health monitoring tools
 
